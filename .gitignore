@@ -43,3 +43,7 @@ desktop.ini
 .vscode/
 .idea/
 *.code-workspace
+
+#其他
+#图片
+!*.jpg
