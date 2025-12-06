@@ -1,0 +1,8 @@
+﻿* text=auto
+*.md text eol=lf
+*.txt text
+*.yml text
+*.yaml text
+*.json text
+.gitignore text
+.gitattributes text
