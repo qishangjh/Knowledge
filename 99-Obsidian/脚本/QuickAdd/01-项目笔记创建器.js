@@ -168,7 +168,7 @@ module.exports = async (params) => {
         }
         
         const projectFolder = `${outputBase}/${projectName}`;
-        const targetFolder = `${projectFolder}/`;
+        const targetFolder = `${projectFolder}/笔记`;
         
         // 创建文件夹
         await app.vault.createFolder(projectFolder).catch(() => {});
